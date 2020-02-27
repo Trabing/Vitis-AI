@@ -15,7 +15,7 @@ Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware pla
 Vitis AI is composed of the following key components:
 
 * **AI Model Zoo**  - A comprehensive set of pre-optimized models that are ready to deploy on Xilinx devices.
-* **AI Optimizer** - An optional model optimizer that can prune a model by up to 90%. It is seperately available with commercial licenses.
+* **AI Optimizer** - An optional model optimizer that can prune a model by up to 90%. It is separately available with commercial licenses.
 * **AI Quantizer** - A powerful quantizer that supports model quantization, calibration, and fine tuning.
 * **AI Compiler** - Compiles the quantized model to a high-efficient instruction set and data flow. 
 * **AI Profiler** - Perform an in-depth analysis of the efficiency and utilization of AI inference implementation.
